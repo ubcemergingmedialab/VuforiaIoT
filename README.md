@@ -1,2 +1,2 @@
 # VuforiaIoT
-Workshop files for building a AR app for IoT vizualization
+Workshop files for building an AR app for IoT vizualization

@@ -4,7 +4,7 @@ using UnityEngine;
 public class ReadStream : MonoBehaviour
 {
     [SerializeField]
-    private string PhotonUrl;
+    private string photonUrl;
     WebStreamReader request = null;
 
     void Start()
@@ -15,7 +15,7 @@ public class ReadStream : MonoBehaviour
     IEnumerator WRequest()
     {
         request = new WebStreamReader();
-        request.Start(PhotonUrl);
+        request.Start(photonUrl);
         string stream = "";
         while (true)
         {

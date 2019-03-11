@@ -1,0 +1,3 @@
+[submodule "CogsRobot"]
+	path = CogsRobot
+	url = https://github.com/unoctium1/CogsRobot.git

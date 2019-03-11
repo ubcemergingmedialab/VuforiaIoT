@@ -6,10 +6,11 @@ https://docs.google.com/presentation/d/1y5YldhejCxli3OsclVsJHRM1_rwA8AplMalSf0d_
 
 # Installation
 Tested with Unity 2018.2.16 installed with Vuforia 7.5
+
 Installed with both Vuforia and Android Build Components
 
 # Releases
-Each release includes both a VPN to test out the project and a zip file of starter code to work through the workshop
+Each release includes both an APK to test out the project and a zip file of starter code to work through the workshop
 
 # Building for Android
 * Ensure that Unity is installed with Android Build Components

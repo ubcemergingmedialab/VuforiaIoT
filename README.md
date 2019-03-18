@@ -1,8 +1,10 @@
 # VuforiaIoT
-Workshop files for building an AR app for IoT vizualization
-
-Slides:
-https://docs.google.com/presentation/d/1y5YldhejCxli3OsclVsJHRM1_rwA8AplMalSf0d_6Xk/edit?usp=sharing
+Continued development of the COGS robot/IoT app
+Goals for development:
+* Improved UI
+* Manual control of the robot
+* Hololens/controller support because why not lmao
+* Performance/Technical improvements for robot code
 
 # Installation
 Tested with Unity 2018.2.16 installed with Vuforia 7.5
